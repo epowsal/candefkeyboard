@@ -14,7 +14,7 @@ paypal:
 
 # 捐赠以表示感谢与支持
 
-支付宝（也可以直接支付宝转账给ih4g@qq.com）：
+支付宝：
 
 ![接受捐赠200pixel](https://user-images.githubusercontent.com/89308109/132255156-1926b435-d628-40a8-89a2-1682f2e69a69.png)
 
