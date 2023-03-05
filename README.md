@@ -11,7 +11,7 @@ paypal:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PAGZ8VVGG67XY)
 
-if you pay for this you can get sorce code by email iwlb@outlook.com;
+if you pay for this you can get vc source code by email iwlb@outlook.com;
 
 
 # 捐赠以表示感谢与支持
@@ -22,4 +22,4 @@ if you pay for this you can get sorce code by email iwlb@outlook.com;
 
 
 
-如果你支付你可以通过email iwlb@outlook.com获得源码.
+如果你支付你可以通过email iwlb@outlook.com获得vc源码.
